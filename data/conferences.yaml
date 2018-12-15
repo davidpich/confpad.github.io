@@ -103,3 +103,15 @@
     city: London
   description: |-
     Experience the latest from Flutter, Google’s free and open source SDK for building high-quality native iOS and Android apps from a single codebase.  Flutter Live is a global celebration of Flutter.
+
+- id: 2018-12-15-jscamp-barcelona-2018
+  name: JSCamp Barcelona 2018
+  url: https://jscamp.tech
+  date:
+    from: 2018-09-18
+    to: 2018-09-20
+  location:
+    country: Spain
+    city: Barcelona
+  description: |-
+    JSCamp 2018 is a two-day developer-driven conference and workshops, crafted for and by the community. Learn about the latest trends, meet experts and core team members of different frameworks, tools and engines.
